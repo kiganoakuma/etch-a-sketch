@@ -1,0 +1,19 @@
+:root {
+    --main-font: "Cutive Mono", monospace
+}
+
+#etch-container {
+    border: 1px solid white;
+}
+
+body {
+    background-color: rgb(67, 68, 119);
+    padding: 50px;
+    font-family: var(--main-font);
+}
+
+#buttons {
+    display: flex;
+    gap: 20px;
+    margin: 20px 0;
+}
