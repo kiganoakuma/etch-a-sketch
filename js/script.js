@@ -129,7 +129,6 @@ buttonElements.forEach((element) => {
   element.style.border = "none";
   element.style.borderRadius = "5px";
   element.style.color = "white";
-  element.style.fontFamily = "Arial, sans-serif";
   element.style.cursor = "pointer";
   element.style.width = `${
     containerLength / count - (20 * (count - 1)) / count

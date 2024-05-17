@@ -1,5 +1,5 @@
 :root {
-    --main-font: "Cutive Mono", monospace
+    --main-font: 'Courier New', Courier, monospace;
 }
 
 #etch-container {
